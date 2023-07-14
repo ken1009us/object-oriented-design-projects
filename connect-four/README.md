@@ -66,10 +66,6 @@ You can customize the game settings by modifying the following parameters in the
 - connectN: The number of pieces to connect for a win.
 - targetScore: The score required to win the game.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 This project is based on the Connect Four game, originally created by Howard Wexler and Ned Strongin.
